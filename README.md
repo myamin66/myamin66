@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yamin
 - 👀 I’m interested in MERN Developer Roles
-- 🌱 I’m currently learning Blockchain Development
+- 🌱 I’m learning Node.js and ML.
 - 💞️ I’m looking to collaborate on remote jobs.
-- 📫 Reach me at myamin.bcss19@iba-suk.edu.pk
+- 📫 Reach me at myamin.cs@gmail.com
 
 <!---
 myamin66/myamin66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
