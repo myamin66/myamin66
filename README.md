@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Muhammad Yamin, currently working as a Data Engineer. Previously, I was an Artificial Intelligence (AI) Engineer and a Software Engineer. 
-- 👀 I’m interested in Data Science.
 - 💞️ I’m looking to collaborate on remote jobs.
 - 📫 Reach me at myamin.cs@gmail.com
 
